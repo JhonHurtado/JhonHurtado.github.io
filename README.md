@@ -24,7 +24,7 @@ Aquí algunos de los proyectos en los que he trabajado:
 ### 📌 [Html Basico](https://jhonhurtado.me/html_basico))
 ✅ Guia de Html basico.  
 
-### 📌 [Redes e Infraestructura](https://jhonhurtado.me/html_basico))
+### 📌 [Redes e Infraestructura](https://jhonhurtado.me/REDES))
 🛠️ Guia de Redes Basica  
 
 
